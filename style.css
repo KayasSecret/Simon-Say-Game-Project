@@ -9,7 +9,7 @@ body {
 .btn {
   height: 200px;
   width: 200px;
-  border-radius: 20%;
+  border-radius: 50%;
   border: 10px solid black;
   margin: 2.5rem;
 }

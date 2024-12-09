@@ -1,6 +1,9 @@
 body {
   background-image: url(/assets/bg-image.jpg);
   text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .btn {

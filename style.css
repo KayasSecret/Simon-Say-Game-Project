@@ -46,6 +46,8 @@ body {
 
 .heading {
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 9px;
   background-color: #02b7c4;
+  width: 18rem;
+  height: 2.5rem;
 }

@@ -51,3 +51,11 @@ body {
   width: 18rem;
   height: 2.5rem;
 }
+
+.para {
+  border-radius: 9px;
+  background-color: #d95980;
+  width: 22rem;
+  height: 2.2rem;
+  margin-left: 35.3rem;
+}
